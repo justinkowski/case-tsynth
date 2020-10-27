@@ -9,6 +9,7 @@
 #### Laser cutting file: Tsynth OUTLINE 10-22.ai
 - Red lines should be cut
 - Blue areas should be area engraved
+- Material should be 1/8"/3mm thick
 
 #### Preview:
 ![panel](/tsynth.png)
